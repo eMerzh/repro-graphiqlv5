@@ -213,10 +213,10 @@
     set-value "^4.1.0"
     zustand "^5"
 
-"@graphiql/react@^0.35.3":
-  version "0.35.3"
-  resolved "https://registry.npmjs.org/@graphiql/react/-/react-0.35.3.tgz#a98e9c678a897e465bd6a3f3a7de5a2b07ee0391"
-  integrity sha512-w1zNrv6oxerBpn3Us+kdHnsMUHQr1IfLZSeQvnd3COYiUQ3b+PmS1CAA31frnVo0UrQHy0LiZx3M/8f/BwnT4A==
+"@graphiql/react@^0.35.4":
+  version "0.35.4"
+  resolved "https://registry.npmjs.org/@graphiql/react/-/react-0.35.4.tgz#d44f7e1fec6b9d84bc8e8c1596ada49dc09328b5"
+  integrity sha512-CKdPJClbkEtKR9/ECyme5LoSmKcOowMMiiL6orPNUAzNUrWgH5uViWAcoagJcp7zLNKQMo1IPspVwGokFfpngw==
   dependencies:
     "@graphiql/toolkit" "^0.11.3"
     "@radix-ui/react-dialog" "^1.1"
@@ -905,14 +905,14 @@ graphiql-explorer@^0.9.0:
   resolved "https://registry.npmjs.org/graphiql-explorer/-/graphiql-explorer-0.9.0.tgz#25f6b990bfc3e04e88c0cf419e28d12abe2c4fbe"
   integrity sha512-fZC/wsuatqiQDO2otchxriFO0LaWIo/ovF/CQJ1yOudmY0P7pzDiP+l9CEHUiWbizk3e99x6DQG4XG1VxA+d6A==
 
-graphiql@^5.0.2:
-  version "5.0.2"
-  resolved "https://registry.npmjs.org/graphiql/-/graphiql-5.0.2.tgz#5ac2815bd49bcc74181e5b8481634f6da847414b"
-  integrity sha512-6JciHNBvsV4anJKwIAVEb1FPkHrOSEexrMs6/rx1MhwU3/SPoociVM+3QPEWnZLn5UkHMFOuxK2zEzk/JH0q1Q==
+graphiql@^5.0.3:
+  version "5.0.3"
+  resolved "https://registry.npmjs.org/graphiql/-/graphiql-5.0.3.tgz#59b21e8ccee882b7bb1c7a13fadcd6b91bdc01f4"
+  integrity sha512-bITBC5xVygjSgXl+V5CQTfIzyEqZWH3YTDHTmUL/z2TtVltGyBKkUTq0LZjf5rtHQoI9bdqFl12dlFZoFJoVZw==
   dependencies:
     "@graphiql/plugin-doc-explorer" "^0.3.0"
     "@graphiql/plugin-history" "^0.3.0"
-    "@graphiql/react" "^0.35.3"
+    "@graphiql/react" "^0.35.4"
     react-compiler-runtime "19.1.0-rc.1"
 
 graphql-language-service@^5.3.1, graphql-language-service@^5.4.0:
